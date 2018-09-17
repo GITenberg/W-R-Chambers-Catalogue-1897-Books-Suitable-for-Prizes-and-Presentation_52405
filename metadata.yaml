@@ -1,0 +1,29 @@
+_repo: W-R-Chambers-Catalogue-1897-Books-Suitable-for-Prizes-and-Presentation_52405
+_version: 0.0.1
+creator:
+  author:
+    agent_name: W. & R. Chambers Ltd.
+    aliases:
+    - Chambers Ltd.
+    - Chambers (Firm)
+    - W. and R. Chambers Ltd.
+    - Chambers, W. & R.
+    - W. & R. Chambers Limited
+    gutenberg_agent_id: '43812'
+    url: http://www.gutenberg.org/2009/agents/43812
+description: ''
+gutenberg_issued: '2016-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'W. & R. Chambers Ltd. -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- Scotland -- Edinburgh'
+- GITenberg
+title: "W. & R. Chambers' Catalogue. - 1897\r\nBooks Suitable for Prizes and Presentation"
+url: http://www.gutenberg.org/ebooks/52405
